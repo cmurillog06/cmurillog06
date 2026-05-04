@@ -1,9 +1,7 @@
 <h1 align="center">👩🏽‍💻 Carolina Murillo Gómez</h1>
 
 <p align="center">
-  🎓 Software Engineering Student @ Universidad de Sevilla (ETSII) <br>
-  💡 Passionate about building scalable and well-designed systems <br>
-  🚀 Focused on Backend, Frontend, Architecture & Real-World Solutions
+  🎓 Estudiante de Ingeniería del Software en la Universidad de Sevilla (ETSII) <br>
 </p>
 
 <p align="center">
@@ -11,26 +9,27 @@
     <img src="https://img.shields.io/badge/Email-carolinamgb05%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-informational?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Location-Sevilla-and-Extremadura-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ubicación-Sevilla-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ubicación-Extremadura-orange?style=for-the-badge">
 </p>
 
 ---
 
-## 🧠 About Me
+### 🧠 Sobre mí
 
-I'm a Software Engineering student at the **University of Seville (ETSII)**, currently developing academic projects focused on **real-world applications**.
+Soy estudiante de Ingeniería del Software en la **Universidad de Sevilla (ETSII)**, actualmente desarrollando proyectos académicos enfocados en **aplicaciones del mundo real**.
 
-I enjoy working on:
-- 🏗️ Clean Architecture & scalable systems  
-- ⚙️ Backend and Frontend development and API design  
-- 🧩 Problem solving through software  
-- 🔐 Secure and efficient systems  
+Disfruto trabajando en:
+- 🏗️ Arquitectura limpia y sistemas escalables  
+- ⚙️ Desarrollo Backend, Frontend y diseño de APIs  
+- 🧩 Resolución de problemas mediante software  
+- 🔐 Sistemas seguros y eficientes  
 
-📈 Always improving my skills.
+📈 Siempre intentando mejorar mis habilidades.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tecnologías
 
 <h3>👩🏽‍💻 Lenguajes y Tecnologías</h3>
 <p>
@@ -74,20 +73,20 @@ I enjoy working on:
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Objetivos actuales
 
-- 📚 Deepen knowledge 
-- 🧠 Improve problem-solving skills
-- 🚀 Build impactful real-world projects
-- 🔐 Learn more 
+- 📚 Profundizar conocimientos  
+- 🧠 Mejorar habilidades de resolución de problemas  
+- 🚀 Construir proyectos reales con impacto  
+- 🔐 Aprender 
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Contacto
 
 - 📧 Email: carolinamgb05@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/carolina-murillo-g%C3%B3mez-5a07413a8
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
