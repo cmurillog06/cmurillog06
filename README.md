@@ -31,7 +31,8 @@ I enjoy working on:
 ---
 
 ## ⚙️ Tech Stack
-
+💻 Tech Stack:
+JavaScript Java Dart Python Octave TypeScript Markdown Render Firebase Django Expo Flutter NPM NodeJS React React Native Spring HTML5 Firebase MariaDB SQLite PowerShell Google Cloud AWS JWT Apache Maven MySQL Blender Figma Adobe Photoshop Matplotlib NumPy scikit-learn Git GitHub Actions GitHub SonarLint Docker Postman Swagger Vagrant Steam Epic Games Notion
 <p>
 
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
