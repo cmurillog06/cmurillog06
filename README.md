@@ -32,39 +32,44 @@ I enjoy working on:
 
 ## ⚙️ Tech Stack
 
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
-<img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart">
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript">
+<h3>👩🏽‍💻 Lenguajes y Tecnologías</h3>
+<p>
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite"/>
+<img src="https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb"/>
+</p>
 
-<br>
+<h3>🛠️ Entornos y Herramientas</h3>
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide"/>
+<img src="https://img.shields.io/badge/Sage-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/HeidiSQL-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBeaver-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge&logo=virtualbox"/>
+<img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
+</p>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
-<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring">
-<img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter">
+<h3>🔄 Metodologías Ágiles</h3>
+<p>
+<img src="https://img.shields.io/badge/Scrum-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kanban-green?style=for-the-badge"/>
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite">
-
-<br>
-
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker">
-<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws">
-<img src="https://img.shields.io/badge/Google%20Cloud-white?style=for-the-badge&logo=googlecloud">
-<img src="https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions">
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git">
-<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman">
-<img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger">
-<img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma">
-
+<h3>💻 Sistemas Operativos</h3>
+<p>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Windows%2010-blue?style=for-the-badge&logo=windows"/>
 </p>
 
 ---
