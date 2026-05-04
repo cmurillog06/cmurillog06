@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="carolinamgb05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-blue?style=for-the-badge&logo=gmail">
+    <img src="[https://img.shields.io/badge/Email-contact-blue?style=for-the-badge&logo=gmail](https://mail.google.com/mail/u/0/?fs=1&to=carolinamgb05@gmail.com&tf=cm)">
   </a>
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-informational?style=for-the-badge">
   <img src="https://img.shields.io/badge/Location-Sevilla-orange?style=for-the-badge">
