@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Carolina Murillo Gómez</h1>
+<h1 align="center">👩🏽‍💻 Carolina Murillo Gómez</h1>
 
 <p align="center">
   🎓 Software Engineering Student @ Universidad de Sevilla (ETSII) <br>
@@ -32,7 +32,7 @@ I enjoy working on:
 
 ## ⚙️ Tech Stack
 
-### 👨‍💻 Languages
+### 👩🏽‍💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,sql" />
 </p>
@@ -75,6 +75,5 @@ I enjoy working on:
 
 ---
 
-## ⚡ Philosophy
+## 📊 GitHub Stats
 
-> *"Good code is not just functional — it's readable, maintainable, and scalable."*
